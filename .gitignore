@@ -10,3 +10,6 @@ __pycache__
 *.png
 *.pyc
 roboschool-files
+
+.DS_Store
+.ipynb_checkpoints/
